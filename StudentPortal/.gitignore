@@ -5,5 +5,16 @@ target
 /.classpath
 /.project
 /.settings
+/.sbtserver
 /RUNNING_PID
 /bin/
+/conf/functionaltest.conf
+/conf/password.conf
+/conf/IFStudentPortal.jks
+/certs/*.jks
+/certs/*.crt
+/certs/*.p12
+/certs/*.csr
+/public/certs/*.crt
+application-log*.gz
+*~
